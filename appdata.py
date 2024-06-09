@@ -42,7 +42,7 @@ def main():
 	st.sidebar.info("A Simple App for Exploring Kab. Bulungan's Data")
 
 	st.sidebar.header("Data Source")
-	st.sidebar.info("[BPS](https://www.bps.go.id/id)")
+	st.sidebar.info("[BPS](https://bulungankab.bps.go.id/)")
 
 	st.sidebar.header("Maintained by")
 	st.sidebar.info("Bappeda & Litbang Kab. Bulungan")
